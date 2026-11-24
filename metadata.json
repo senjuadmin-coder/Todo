@@ -1,0 +1,6 @@
+{
+  "name": "MOMENTUM — Editorial Productivity Studio",
+  "description": "A calm, architecturally structured personal workspace for daily planning, deep focus sessions, weekly time-blocking, and studio notes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
